@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stfedosov
 - 👀 I’m interested in Software Development
-- 📫 stfedosov@gmail.com
+- Feel free to reach out if you have any questions or suggestions
 
 <!---
 stfedosov/stfedosov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
